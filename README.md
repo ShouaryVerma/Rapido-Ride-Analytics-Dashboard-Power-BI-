@@ -18,3 +18,4 @@ Custom DAX measures for booking counts, completed/lost bookings, booking value, 
 Driver and customer rating fields integrated to assess service quality.
 Dedicated calendar and date tables supporting robust time intelligence calculations.
 Custom visual theming and icon-based UI elements for an intuitive, branded user experience.
+Snapshot Preview: https://github.com/ShouaryVerma/Rapido-Ride-Analytics-Dashboard-Power-BI-/blob/main/Snapshot%20of%20Dashboard.png
