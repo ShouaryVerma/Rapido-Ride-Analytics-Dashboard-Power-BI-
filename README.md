@@ -1,5 +1,6 @@
 # Rapido-Ride-Analytics-Dashboard-Power-BI-
 Rapido Ride Analytics Dashboard – Power BI Report
+Access : https://app.powerbi.com/links/3DzGlrT78A?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare
 
 This Power BI report offers a comprehensive analysis of Rapido's ride-hailing operations, covering booking trends, rider behavior, vehicle performance, revenue insights, and location-based patterns. Built on a structured data model with dedicated fact and dimension tables, the report transforms raw booking data into actionable business intelligence across six interactive pages: Home, Overview, Revenue, Rider, Vehicle, and Location.
 
